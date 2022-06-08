@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T12:33:46.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Z2kDcGBVt_uYTJvjxR2R" version="18.1.3" type="github"><diagram id="_G1g0VNZcGSVpxmcjxAs" name="Page-1">5ZlZc9s2EIB/jWbah2R4iZIerSNxpmnrWnWT9qUDiRCJlARYENSRX58FAZDiYYWdWGHiPtgmFotrd7/lEh65i+T4mqM0+pkFOB45VnAcucuR48w8H35LwUkJvKkWhJwESmRXgjX5iLXQ0tKcBDirKQrGYkHSunDLKMVbUZMhztmhrrZjcX3VFIW4JVhvUdyWviOBiJR06kwq+S0mYWRWtv2Z6kmQUdYnySIUsMOZyF2N3AVnTKin5LjAsbSdsYsa9+qR3nJjHFPRZ0D66rcwFd5f618f/nZ/2duW5fz0wlWz7FGc6wPrzYqTsQAOwCC6ybiIWMgoileVdM5ZTgMsl7GgVem8ZSwFoQ3CD1iIk/YuygUDUSSSWPeqNeVCj55NizKW8y2+cCATI4iHWFzQc0oPQORilmDBTzCO4xgJsq/vA+kYCku9yszwoC39H6xud1jdj2G78w08hPLh4Y0RwQqltFTjRvLDgRTrpRxLc8mjR7g4yL85zkTRBv+EUdmzYzyRh6KBtCcu/oBDTPd8Bb9u7mB568dWLNQ9fYiIwOsUFQ45AP5dXt1jLvDxsl/bftADxpqdk0kKun2oULQNX9E5hkbxyV03fm7AOD2B8YYExmlZvQjTF/Cz/IBoKMP3Jk1jsoXNMDp43Lp2I3CdjsC1OgLXv1bcTp5b3Ho949YfMm69Hon+/u26X6qHAFcx76NEhqxWs9QMsgLakdAk8x1Rib3I6XuCD4Mz4U17MNGVzK/GxOy5MeH3ZGI6JBP+55n4A+I16wdFEdmWLoKgbI/LoI9wnGIuUcjpVr0VZO2j1QiVqNxxBjry7AESCP7cPmxM+aMpo5ssLb00ID5+Ax9/3LMUmlwLH7urjP2u+Zn25Me2ul31dQCafh6g2yL2eyLUBU8uSJyZd0mIKeZIVB8X8MYpvyAEJ2FYcKb6CnYWan8kOB/FcZYymmFlE4hcdVa0E2q4mkiB2ZiLiApylKbqowUf0xgRigzbnMnvmoAUsKPCIWwn9ThX2DN5kwCT7YrNn0zXy2+Obdfr+51zPbif382A1ZfuYe8GrB41o6KzD9xvzsg541gRvEEZliQV/Kj6MeeGJ4V3E7rm7QJ4AiVZHemhC02rQdNk8rLjZel28DQbX8ur3hD04CMR7+VwOL9q/aknk8/L43njpBsDlKOPuLM3b3roHSNUVGEweezyyEyh9q9HVf694RydztRSqZBdWMerrzNuXMM21O2L6vCg1q9CrbTIF0Rf+/5kTTa0eO2qEljIEy91DZxv2nlkcKqbdnNnPQvgq30+2l13gY1M/Xr1O2jcm3TZlbEbdgULibrxoI4KKTxvwVLgMncu7UigXLvRHQkJApUwcEY+ok0xlfSKDl2YdzwfjZdyLsgRmUoXcupMcPYPXrAYCiR3SRmVs+wg5TdET+G/6biOo9uucWYd7nOu5r4eH6L3Zcn6P/ac17jM9NuOmzyN46BZ/T9MJb/qn4ru6hM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-08T12:35:32.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="dTq4iyIFjty-eMRB4-It" version="18.1.3" type="github">
+  <diagram id="_G1g0VNZcGSVpxmcjxAs" name="Page-1">
+    <mxGraphModel dx="946" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pFQgpt4ZSOU_3Nv1002K-1" target="pFQgpt4ZSOU_3Nv1002K-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-1" value="&lt;b&gt;UI&lt;/b&gt;&lt;br&gt;(will prepare the request through the form and send to the BE API )" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pFQgpt4ZSOU_3Nv1002K-2" target="pFQgpt4ZSOU_3Nv1002K-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-2" value="BE - Django Application" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pFQgpt4ZSOU_3Nv1002K-4" target="pFQgpt4ZSOU_3Nv1002K-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-4" value="&lt;b&gt;URLS&lt;/b&gt;&lt;br&gt;App -&amp;gt; URLS config to find the view" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pFQgpt4ZSOU_3Nv1002K-6" target="pFQgpt4ZSOU_3Nv1002K-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-6" value="&lt;b&gt;Views&lt;/b&gt;&lt;br&gt;iew will call the helper function for calling Propery data HUb API&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="65" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pFQgpt4ZSOU_3Nv1002K-8" target="pFQgpt4ZSOU_3Nv1002K-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-8" value="&lt;b&gt;Helpers&lt;/b&gt;&lt;br&gt;will call the utils to generate the URL and trigger the API, validate the response as well after triggering the API, it will append explaination from dictionary of error codes if any error." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="340" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pFQgpt4ZSOU_3Nv1002K-10" target="pFQgpt4ZSOU_3Nv1002K-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-10" value="&lt;b&gt;Utils&lt;/b&gt;&lt;br&gt;It will generate URL based on configuration and will append the request params as well" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="377.5" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pFQgpt4ZSOU_3Nv1002K-6" target="pFQgpt4ZSOU_3Nv1002K-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="740" y="50" />
+              <mxPoint x="140" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-12" value="Sibner Property Data Hub&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-15" value="&lt;b&gt;GET Request&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="130" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pFQgpt4ZSOU_3Nv1002K-16" value="&lt;b&gt;Response&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
