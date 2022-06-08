@@ -1,8 +1,11 @@
-# sibner
+**# sibner**
 
-Clone this project and go to sibner directory where you will find manage.py file
+**Clone this project** and go to sibner directory where you will find manage.py file
 
-** How to get Started for development
+1. Run - ``` git clone https://github.com/mandip009/sibner.git ```
+2. Run - ``` cd sibner ```
+
+**How to get Started for development**
 
 1. Create a python 3.6/3.7 venv
 2. Install requirements using requirement.txt
