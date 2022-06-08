@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], input[type=number], select, textarea {
+  width: 20%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<h3>Sibner Property</h3>
+
+<div class="container">
+    <form action="get-details", method="get">
+        <div>
+            <label for="postcode">Postcode</label>
+            <input type="text" id="postcode" name="postcode" placeholder="OX41YB">
+        </div>
+        <div>
+            <label for="internal_area">Internal Area</label>
+            <input type="text" id="internal_area" name="internal_area" placeholder="828">
+        </div>
+        <div>
+            <label for="property_type">Property Type</label>
+            <select id="property_type" name="property_type">
+                <option value="flat">Flat</option>
+                <option value="land">Land</option>
+                <option value="villa">Villa</option>
+                <option value="hotel">Hotel</option>
+                <option value="school">School</option>
+                <option value="mall">Mall</option>
+            </select>
+        </div>
+        <div>
+            <label for="construction_date">Construction Date</label>
+            <input type="text" id="construction_date" name="construction_date" placeholder="pre_1914">
+        </div>
+        <div>
+            <label for="bedrooms">Bedrooms</label>
+            <input type="number" id="bedrooms" name="bedrooms" placeholder="0">
+        </div>
+        <div>
+            <label for="bathrooms">Bathrooms</label>
+            <input type="number" id="bathrooms" name="bathrooms" placeholder="0">
+        </div>
+        <div>
+            <label for="finish_quality">Finish Quality</label>
+            <input type="text" id="finish_quality" name="finish_quality" placeholder="below_average">
+        </div>
+        <div>
+            <label for="outdoor_space">Outdoor Space</label>
+            <input type="text" id="outdoor_space" name="outdoor_space" placeholder="Garden">
+        </div>
+        <div>
+            <label for="off_street_parking">Off street parking</label>
+            <input type="number" id="off_street_parking" name="off_street_parking" placeholder="0">
+        </div>
+        <div>
+            <label content="" for="off_street_parking">Off street parking</label>
+            <input type="submit" id="submit" value="Submit">
+        </div>
+    </form>
+</div>
+
+</body>
+</html>
